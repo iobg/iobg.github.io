@@ -1,0 +1,27 @@
+.tech-logo{
+	width:50%;
+	max-height:125px;
+}
+
+.gulp{
+	width:30%;
+}
+.css{
+	width:40%;
+}
+.mocha{
+	width:100%;
+	margin-top:2%;
+}
+.pug{
+	margin-top:10%;
+}
+.npm{
+	margin-top:10%;
+}
+.express{
+	margin-top:20%;
+}
+.node{
+	margin-top:20%;
+}
